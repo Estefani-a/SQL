@@ -1,2 +1,2 @@
 # SQL
-Programas en SQL
+Ejercicios basicos realizados con SQL.
